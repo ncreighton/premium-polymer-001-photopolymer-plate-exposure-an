@@ -1,0 +1,2 @@
+# premium-polymer-001-photopolymer-plate-exposure-an
+Tired of guessing exposure times and washing plates too long or too short? Your photopolymer plates deserve precision, not guesswork.  This Notion template eliminates the inconsistency of manual timing by providing dedicated stopwatches for both exposure and washout stages. Log each plate’s timing history to replicate perfect results, reduce waste,
